@@ -1,0 +1,67 @@
+The best 5 teams are::
+
+Estimated points for team-1 = 566.82
+DavidWarner(C) 
+JonnyBairstow 
+ManishPandey 
+RashidKhan 
+AaronFinch 
+AbdeVilliers 
+DevduttPadikkal(VC) 
+ShivamDube 
+DaleSteyn 
+YuzvendraChahal 
+JoshPhillipe 
+-------------------------------------
+Estimated points for team-2 = 566.22
+DavidWarner(C) 
+JonnyBairstow 
+ManishPandey 
+RashidKhan 
+AaronFinch 
+AbdeVilliers 
+DevduttPadikkal(VC) 
+WashingtonSundar 
+DaleSteyn 
+YuzvendraChahal 
+JoshPhillipe 
+-------------------------------------
+Estimated points for team-3 = 565.607
+DavidWarner(C) 
+JonnyBairstow 
+ManishPandey 
+SandeepSharma 
+AaronFinch 
+ViratKohli 
+AbdeVilliers 
+DevduttPadikkal(VC) 
+ShivamDube 
+DaleSteyn 
+YuzvendraChahal 
+-------------------------------------
+Estimated points for team-4 = 565.007
+DavidWarner(C) 
+JonnyBairstow 
+ManishPandey 
+SandeepSharma 
+AaronFinch 
+ViratKohli 
+AbdeVilliers 
+DevduttPadikkal(VC) 
+WashingtonSundar 
+DaleSteyn 
+YuzvendraChahal 
+-------------------------------------
+Estimated points for team-5 = 563.229
+DavidWarner(C) 
+JonnyBairstow 
+ManishPandey 
+PriyamGarg 
+RashidKhan 
+AaronFinch 
+AbdeVilliers 
+DevduttPadikkal(VC) 
+ShivamDube 
+DaleSteyn 
+YuzvendraChahal 
+-------------------------------------

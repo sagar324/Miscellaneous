@@ -6,7 +6,7 @@ A C++ code which creates the top 5 Dream-11 teams(on the basis of stats) for a c
 Knowledge about Dream11, C++
 
 # Purpose of this project:
-As we know, there are many dream11 teams possible for a given match.<br/>
+There are many dream11 teams possible for a given match.<br/>
 Using combinatorics and simple constraints,we can calculate the max number of teams possible is 644688.<br/>
 644688 is comparably a small number for computational analysis.<br/>
 So we give the playing 22 as input and extract the best 5 teams possible by considering all possible constraints.<br/>
@@ -214,9 +214,9 @@ Make sure that D11CODE.cpp,INPUT.txt,OUTPUT.txt,STATS.csv remain in the same fol
 
 Advantages of this project:
 ---------------------------
-1. You don't need to waste your time thinking of all combinations(one may think of 50 combinations at max) because the program has viewed over all possible team combinations (approx 3 lakh - 4 lakh possible teams) <br/>
-2. You can just make some tweaks to one of the best 5 teams that you find promising(based on form of a player,based on pitch , etc). <br/>
-3. Irrespective of the tournament(BBL,CWC,t20 CWC,etc),if you can create a database(csv file) at the start of the tournament in the format of STATS.csv, this code can be used along with that database too. (As the constraints remain same so the algorithm/code remains same)<br/>
+1. We can save the time spent thinking of all combinations(one may think of 50 combinations at max) because the program has viewed over all possible team combinations (approx 300k - 400k possible teams) <br/>
+2. Final tweaks can be made to the best 5 teams.(based on form of a player,based on pitch , etc). <br/>
+3. Irrespective of the tournament,if you can create a database(csv file) at the start of the tournament in the format of STATS.csv, this code can be used along with that database too. (As the constraints remain same so the algorithm/code remains same)<br/>
 
 Drawbacks of this project:
 --------------------------
@@ -230,7 +230,7 @@ Next Steps:
 2. Ball by Ball stats from the past 10-15 yrs can be used along with ML models to enhance the construction of the database, with more accurate values.<br/>
 
 # Thank You Note:
-This is my first solo project based on my ideas,<br/>
+This is my first self-made project,<br/>
 I would like to thank<br/>
 1) iplt20.com and Google for providing stats<br/>
 2) geeksforgeeks.com for using makeCombi function (from line 53 to line 73 in the code)<br/>

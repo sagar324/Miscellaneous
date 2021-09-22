@@ -1,6 +1,7 @@
 # Project_1
 # Brief intro
 A C++ code which creates the top 5 Dream-11 teams(on the basis of stats) for a cricket match.<br/>
+The problem is similar to the traditional knapsack problem along with a few additional constraints.<br/>
 
 # Requirements:
 Knowledge about Dream11, C++
